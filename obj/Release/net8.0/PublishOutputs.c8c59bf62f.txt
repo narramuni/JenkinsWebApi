@@ -1,0 +1,11 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\JenkinsWebAPI.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\JenkinsWebAPI.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\JenkinsWebAPI.deps.json
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\JenkinsWebAPI.runtimeconfig.json
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\JenkinsWebAPI.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\JenkinsWebAPI\JenkinsWebAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

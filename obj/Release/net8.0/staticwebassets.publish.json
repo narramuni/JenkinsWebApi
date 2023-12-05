@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a/oVFsbv8pSGHTP8vLbH7/VRT5rmzzjhqnMZ+WekYhM=",
+  "Source": "JenkinsWebAPI",
+  "BasePath": "_content/JenkinsWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
